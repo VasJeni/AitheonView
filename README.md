@@ -1,2 +1,2 @@
 # AitheonView
-view
+just view
